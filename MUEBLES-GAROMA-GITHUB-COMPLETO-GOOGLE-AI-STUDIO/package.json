@@ -1,0 +1,13 @@
+{
+  "name": "muebles-garoma",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sitio completo de Muebles Garoma con fotos de estudio y pedidos por WhatsApp",
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "start": "node tools/serve.mjs",
+    "build": "node tools/build.mjs",
+    "preview": "node tools/serve.mjs --dist"
+  }
+}

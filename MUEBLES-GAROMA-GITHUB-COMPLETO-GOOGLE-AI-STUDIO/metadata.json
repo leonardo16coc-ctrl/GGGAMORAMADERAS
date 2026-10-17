@@ -1,0 +1,7 @@
+{
+  "name": "Muebles Garoma",
+  "description": "Catálogo de muebles para espacios pequeños y cotizaciones por WhatsApp",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
